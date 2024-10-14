@@ -1,0 +1,13 @@
+a=int(input("Enter the number"))
+if(a<0):
+print("Given number is negative number");
+else:
+print("Given number is positive number")
+
+(or)
+
+a=int(input("Enter the number"))
+if(a>0):
+print("Given number is positive number");
+else:
+print("Given number is negative number ")
